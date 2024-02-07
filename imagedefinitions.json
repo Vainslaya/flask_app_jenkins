@@ -1,0 +1,6 @@
+[
+    {
+        "name": "flask-app",
+        "imageUri": "public.ecr.aws/q9r3s5p8/flask-app:latest"
+    }
+]
