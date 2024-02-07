@@ -1,4 +1,4 @@
-FROM public.ecr.aws/a9r3s5p8/python:3.8
+FROM public.ecr.aws/q9r3s5p8/python:3.8
 
 ENV FLASK_ENV='developement'
 ENV FLASK_APP='app.py'
